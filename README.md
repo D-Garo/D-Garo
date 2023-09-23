@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D-Garo
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Laravel and React
+- 🌱 I’m currently learning Laravel, Angular and React
 - 📫 How to reach me is at my email urieldavid30@gmail.com 
 
 <!---
